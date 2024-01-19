@@ -1,0 +1,14 @@
+.exam {
+  position: fixed;
+  border: 2px solid red;
+}
+#p1 {
+  position: relative;
+  font-family: Arial;
+  color: red;
+}
+#p2 {
+  position: absolute;
+  top: 0px;
+  left: 200px;
+}
